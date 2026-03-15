@@ -1,41 +1,126 @@
-<h1 align="center">Hello 👋, I'm David Reis</h1>
-<h3 align="center">Full Stack Developer | Automation | Bots | API Integration</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+David+Reis;Software+Developer;Automation,+Bots+and+APIs;LegalTech+and+Innovation;Be+Welcome!)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" /> 
 
-- 💻 Desenvolvedor focado em **automação e desenvolvimento web**
-- 🚀 Experiência com **JavaScript, Node.js e Python**
-- 🤖 Criação de **bots e automação de processos**
-- 🔗 Integração com **APIs e sistemas externos**
-- 📚 Sempre estudando novas tecnologias
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github,mongodb,postgres" />
-</p>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
+# 👨‍💻 About Me
 
-## 📂 Featured Projects
+I'm **David Reis**, a developer focused on **automation, APIs, bots and intelligent systems**.
 
-🚀 **Automation Bot**  
-Bot criado para automatizar tarefas repetitivas utilizando Node.js.
+I enjoy building solutions that combine **software engineering, automation and artificial intelligence** to solve real problems.
 
-🔗 **API Integration Project**  
-Aplicação que consome dados de APIs externas.
+Currently working on projects related to:
 
-🌐 **Web Application**  
-Aplicação web utilizando JavaScript, HTML e CSS.
+- Automation systems
+- API development
+- Chatbots
+- Data integration
+- LegalTech solutions
+- Process management platforms
+
+One of my current projects is **COPI System**, a platform for **Intellectual Property Management with AI assistance**.
 
 ---
 
-## 📫 Contact
+# 🚀 Main Skills
 
-- 💼 LinkedIn: www.linkedin.com/in/david-reis-659b84255
-- 📧 Email: davidreis141435@gmail.com 
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+
+</div>
+
+---
+
+# 🛠 Technologies & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge)
+![Bots](https://img.shields.io/badge/Bots-00bfbf?style=for-the-badge)
+
+---
+
+# ⚙️ Tools I Use
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📚 Currently Studying
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI-000000?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-00bfbf?style=for-the-badge)
+
+---
+
+# 🚀 Current Projects
+
+### COPI System
+Platform for **Intellectual Property Management with AI support**.
+
+Features include:
+
+- Process management
+- Automated workflows
+- Intelligent chatbot
+- API-based architecture
+- Dashboard for tracking intellectual property assets
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+<a href="www.linkedin.com/in/david-reis-659b84255" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:davidreis141435@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
