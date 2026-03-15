@@ -48,5 +48,5 @@ Aplicação web utilizando JavaScript, HTML e CSS.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/seuperfil
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: www.linkedin.com/in/david-reis-659b84255
+- 📧 Email: davidreis141435@gmail.com 
